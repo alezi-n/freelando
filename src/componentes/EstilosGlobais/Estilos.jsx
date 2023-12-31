@@ -4,7 +4,7 @@ const estilos = tema => {
     return {
         html: {
             fontFamily: tema.fontFamily
-        },
+        }, 
         body: {
             margin: 0
         }
